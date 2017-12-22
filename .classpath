@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="roboticprocessautomation/engine/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/roboticprocessautomation/engine"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Data/Private/GIT/AutoPilot/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Data/Private/GIT/AutoPilot/libs/jna-platform-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Data/Private/GIT/AutoPilot/libs/opencv-330.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
